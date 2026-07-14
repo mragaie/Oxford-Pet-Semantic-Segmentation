@@ -1,5 +1,3 @@
-# DMET1001 - Assignment 2: Semantic Segmentation
-
 ## Project Overview
 
 This project investigates the effect of different segmentation loss functions on semantic segmentation performance using a U-Net architecture.
