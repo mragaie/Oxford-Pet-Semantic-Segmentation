@@ -1,16 +1,5 @@
 # DMET1001 - Assignment 2: Semantic Segmentation
 
-## Team Information
-
-| Name | ID | Tutorial |
-|------|------|------|
-| Youssef Khaled | 55-0814 | T-09 |
-| Omar Ayman | 55-7986 | T-10 |
-| Mohamed Elnaggar | 55-1745 | T-10 |
-| Malak Ragaie | 55-25294 | T-10 |
-
----
-
 ## Project Overview
 
 This project investigates the effect of different segmentation loss functions on semantic segmentation performance using a U-Net architecture.
